@@ -1,0 +1,136 @@
+semester: Genap | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Pendaftaran | tanggal_mulai: 01 Agustus 2026 | tanggal_selesai: 25 September 2026 | halaman: 4
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Masa Pembayaran SPP/UKT | tanggal_mulai: 01 Juli 2026 | tanggal_selesai: 18 Juli 2026 | halaman: 3
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Masa Pengajuan Permohonan Cuti Akademik | tanggal_mulai: 01 Juli 2026 | tanggal_selesai: 24 Agustus 2026 | halaman: 3
+semester: Ganjil | kategori: Jalur Penerimaan UTBK-SNBT | kegiatan: Pendaftaran Ulang | tanggal_mulai: 01 Juni 2026 | tanggal_selesai: 13 Juni 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan UTBK-SNBT | kegiatan: Update biodata dan Upload Dokumen | tanggal_mulai: 01 Juni 2026 | tanggal_selesai: 05 Juni 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan UTBK-SNBT | kegiatan: Verifikasi Dokumen Akademik dan UKT | tanggal_mulai: 01 Juni 2026 | tanggal_selesai: 05 Juni 2026 | halaman: 1
+semester: Ganjil | kategori: Kukerta, Wisuda & Dies Natalis | kegiatan: DIES NATALIS | tanggal_mulai: 01 Oktober 2026 | tanggal_selesai: - | halaman: 3
+semester: Genap | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Pelaksanaan UTBK Pascasarjana | tanggal_mulai: 01 Oktober 2026 | tanggal_selesai: - | halaman: 4
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Verifikasi Data Status Mahasiswa | tanggal_mulai: 1-Sep-26 | tanggal_selesai: 04 September 2026 | halaman: 3
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pembatalan KRS Tanpa penggantian Matakuliah | tanggal_mulai: 02 Februari 2027 | tanggal_selesai: 14 Febuari 2027 | halaman: 4
+semester: Ganjil | kategori: Jalur SMM-PTN Barat | kegiatan: Pendaftaran Ulang | tanggal_mulai: 02 Juli 2026 | tanggal_selesai: 13 Juli 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur SMM-PTN Barat | kegiatan: Update biodata dan Upload Dokumen | tanggal_mulai: 02 Juli 2026 | tanggal_selesai: 05 Juli 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur SMM-PTN Barat | kegiatan: Verifikasi Dokumen Akademik dan UKT | tanggal_mulai: 02 Juli 2026 | tanggal_selesai: 05 Juli 2026 | halaman: 1
+semester: Genap | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Mengikuti Tes Wawancara | tanggal_mulai: 02 Oktober 2026 | tanggal_selesai: - | halaman: 4
+semester: Ganjil | kategori: Periode Akademik | kegiatan: Periode Semester Ganjil Tahun Akademik 2026/2027 | tanggal_mulai: 03 Agustus 2026 | tanggal_selesai: 22 Januari 2027 | halaman: 1
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Revisi KRS Mahasiswa | tanggal_mulai: 03 Agustus 2026 | tanggal_selesai: 08 Agustus 2026 | halaman: 3
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pelaksanaan Perkuliahan dan Praktikum | tanggal_mulai: 03 Agustus 2026 | tanggal_selesai: 28 November 2026 | halaman: 3
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pelaksanaan Ujian Akhir Mahasiswa | tanggal_mulai: 03 Agustus 2026 | tanggal_selesai: 31 Desember 2026 | halaman: 3
+semester: Ganjil | kategori: Jalur Penerimaan SNBP | kegiatan: Pendaftaran Ulang | tanggal_mulai: 3-Apr-26 | tanggal_selesai: 10 April 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan SNBP | kegiatan: Update biodata dan Upload Dokumen | tanggal_mulai: 3-Apr-26 | tanggal_selesai: 10 April 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan SNBP | kegiatan: Pendaftaran | tanggal_mulai: 03 Februari 2026 | tanggal_selesai: 18 Februari 2026 | halaman: 1
+semester: Genap | kategori: Kegiatan Kukerta dan Wisuda | kegiatan: Wisuda ke-129 | tanggal_mulai: 03 Februari 2027 | tanggal_selesai: 04 Februari 2027 | halaman: 5
+semester: Ganjil | kategori: Kukerta, Wisuda & Dies Natalis | kegiatan: Wisuda ke-128 | tanggal_mulai: 3-Nov-26 | tanggal_selesai: 04 November 2026 | halaman: 3
+semester: Ganjil | kategori: Jalur SMM-PTN Barat | kegiatan: Pendaftaran | tanggal_mulai: 04 Mei 2026 | tanggal_selesai: 11 Juni 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur SMBT UNRI, PHM & Kerjasama | kegiatan: Pendaftaran | tanggal_mulai: 04 Mei 2026 | tanggal_selesai: 04 Juli 2026 | halaman: 2
+semester: Ganjil | kategori: Mahasiswa Asing Program Sarjana | kegiatan: Seleksi Administrasi | tanggal_mulai: 05 Mei 2027 | tanggal_selesai: - | halaman: 2
+semester: Genap | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Pendaftaran | tanggal_mulai: 05 Oktober 2026 | tanggal_selesai: 30 November 2026 | halaman: 4
+semester: Genap | kategori: PMB Profesi | kegiatan: Pendaftaran | tanggal_mulai: 05 Oktober 2026 | tanggal_selesai: 20 Desember 2026 | halaman: 4
+semester: Ganjil | kategori: Mahasiswa Asing Program Sarjana | kegiatan: Pendaftaran | tanggal_mulai: 6-Apr-27 | tanggal_selesai: 30 April 2027 | halaman: 2
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 06 Juli 2026 | tanggal_selesai: - | halaman: 2
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Registrasi Ulang & Pembayaran SPP Pertama | tanggal_mulai: 06 Juli 2026 | tanggal_selesai: 18 Juli 2026 | halaman: 2
+semester: Ganjil | kategori: PMB Profesi | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 06 Juli 2026 | tanggal_selesai: - | halaman: 2
+semester: Ganjil | kategori: PMB Profesi | kegiatan: Registrasi Ulang & Pembayaran SPP Pertama | tanggal_mulai: 06 Juli 2026 | tanggal_selesai: 18 Juli 2026 | halaman: 2
+semester: Ganjil | kategori: Jalur Penerimaan SNBP | kegiatan: Upload Dokumen SKL | tanggal_mulai: 06 Mei 2026 | tanggal_selesai: 08 Mei 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan SNBP | kegiatan: Cetak e-KTM Jalur Penerimaan SNBP | tanggal_mulai: 06 Mei 2026 | tanggal_selesai: 10 Mei 2026 | halaman: 1
+semester: Ganjil | kategori: Mahasiswa Asing Program Sarjana | kegiatan: Tes Wawancara | tanggal_mulai: 06 Mei 2027 | tanggal_selesai: - | halaman: 2
+semester: Ganjil | kategori: Mahasiswa Asing Program Sarjana | kegiatan: Rapat Penentuan Kelulusan | tanggal_mulai: 07 Mei 2027 | tanggal_selesai: - | halaman: 2
+semester: Genap | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Pelaksanaan UTBK Pascasarjana | tanggal_mulai: 08 Desember 2026 | tanggal_selesai: - | halaman: 4
+semester: Ganjil | kategori: Jalur SMM-PTN Barat | kegiatan: Pengumuman UKT Jalur SMM-PTN Barat | tanggal_mulai: 08 Juli 2026 | tanggal_selesai: - | halaman: 1
+semester: Ganjil | kategori: Jalur SMM-PTN Barat | kegiatan: Masa Sanggah UKT Jalur SMM-PTN Barat | tanggal_mulai: 08 Juli 2026 | tanggal_selesai: 09 Juli 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur SMM-PTN Barat | kegiatan: Pembayaran UKT Jalur SMM-PTN Barat | tanggal_mulai: 08 Juli 2026 | tanggal_selesai: 13 Juli 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur SMM-PTN Barat | kegiatan: Cetak e-KTM Jalur SMM-PTN Barat | tanggal_mulai: 08 Juli 2026 | tanggal_selesai: 13 Juli 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan UTBK-SNBT | kegiatan: Pengumuman UKT Jalur Penerimaan UTBK-SNBT | tanggal_mulai: 08 Juni 2026 | tanggal_selesai: - | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan UTBK-SNBT | kegiatan: Masa Sanggah UKT Jalur Penerimaan UTBK-SNBT | tanggal_mulai: 08 Juni 2026 | tanggal_selesai: 10 Juni 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan UTBK-SNBT | kegiatan: Pembayaran UKT Jalur Penerimaan UTBK-SNBT | tanggal_mulai: 08 Juni 2026 | tanggal_selesai: 12 Juni 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan UTBK-SNBT | kegiatan: Cetak e-KTM Jalur Penerimaan UTBK-SNBT | tanggal_mulai: 08 Juni 2026 | tanggal_selesai: 13 Juni 2026 | halaman: 1
+semester: Genap | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Rapat Penentuan Kelulusan | tanggal_mulai: 08 Oktober 2026 | tanggal_selesai: - | halaman: 4
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Pelaksanaan UTBK Pascasarjana | tanggal_mulai: 9-Apr-26 | tanggal_selesai: - | halaman: 2
+semester: Genap | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Mengikuti Tes Wawancara | tanggal_mulai: 09 Desember 2026 | tanggal_selesai: - | halaman: 4
+semester: Ganjil | kategori: Jalur SMBT UNRI, PHM & Kerjasama | kegiatan: Ujian Tulis Berbasis Komputer | tanggal_mulai: 09 Juli 2026 | tanggal_selesai: 14 Juli 2026 | halaman: 2
+semester: Ganjil | kategori: Mahasiswa Asing Program Sarjana | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 09 Mei 2027 | tanggal_selesai: - | halaman: 2
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pembatalan KRS Tanpa penggantian Matakuliah | tanggal_mulai: 10 Agustus 2026 | tanggal_selesai: 29 Agustus 2026 | halaman: 3
+semester: Ganjil | kategori: Jalur Penerimaan SNBP | kegiatan: Verifikasi Dokumen Akademik dan Dokumen UKT | tanggal_mulai: 10-Apr-26 | tanggal_selesai: 15 April 2026 | halaman: 1
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Mengikuti Tes Wawancara | tanggal_mulai: 10-Apr-26 | tanggal_selesai: - | halaman: 2
+semester: Genap | kategori: Kegiatan Akademik Lainnya | kegiatan: Finalisasi Pelaporan data PDDIKTI Semester Ganjil | tanggal_mulai: 10-Apr-27 | tanggal_selesai: - | halaman: 5
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Verifikasi Data Status Mahasiswa | tanggal_mulai: 10 Februari 2027 | tanggal_selesai: 14 Februari 2027 | halaman: 4
+semester: Genap | kategori: Kegiatan Akademik Lainnya | kegiatan: Finalisasi Pelaporan data PDDIKTI Semester Genap | tanggal_mulai: 10 Oktober 2027 | tanggal_selesai: - | halaman: 5
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Penerbitan Status Mahasiswa | tanggal_mulai: 10-Sep-26 | tanggal_selesai: - | halaman: 3
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pengisian Kartu Rencana Studi (KRS) mahasiswa | tanggal_mulai: 11 Januari 2027 | tanggal_selesai: 22 Januari 2027 | halaman: 4
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Pelaksanaan UTBK Pascasarjana | tanggal_mulai: 11 Juni 2026 | tanggal_selesai: - | halaman: 2
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pra Evaluasi Mahasiswa Semester 4, 8 dan 14 | tanggal_mulai: 12 Januari 2026 | tanggal_selesai: 20 Januari 2026 | halaman: 3
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Mengikuti Tes Wawancara | tanggal_mulai: 12 Juni 2026 | tanggal_selesai: - | halaman: 2
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Pendaftaran | tanggal_mulai: 13-Apr-26 | tanggal_selesai: 05 Juni 2026 | halaman: 2
+semester: Ganjil | kategori: PMB Profesi | kegiatan: Pendaftaran | tanggal_mulai: 13-Apr-26 | tanggal_selesai: 25 Juni 2026 | halaman: 2
+semester: Ganjil | kategori: Mahasiswa Asing Program Sarjana | kegiatan: Pendaftaran Ulang & Administrasi Masuk Indonesia | tanggal_mulai: 13 Mei 2027 | tanggal_selesai: 28 Juli 2027 | halaman: 2
+semester: Ganjil | kategori: Mahasiswa Asing Program Sarjana | kegiatan: Update biodata dan Pembayaran SPP | tanggal_mulai: 13 Mei 2027 | tanggal_selesai: 28 Juli 2027 | halaman: 2
+semester: Antar Semester | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pendaftaran dan Pembayaran Antar Semester | tanggal_mulai: 14 Juni 2027 | tanggal_selesai: 18 Juni 2027 | halaman: 3
+semester: Genap | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 14 Oktober 2026 | tanggal_selesai: - | halaman: 4
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Rapat Penentuan Kelulusan | tanggal_mulai: 15-Apr-26 | tanggal_selesai: - | halaman: 2
+semester: Genap | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Registrasi Ulang & Pembayaran SPP Pertama | tanggal_mulai: 15 Oktober 2026 | tanggal_selesai: 21 Oktober 2026 | halaman: 4
+semester: Ganjil | kategori: Jalur Penerimaan SNBP | kegiatan: Klarifikasi Hasil Verifikasi Rapor | tanggal_mulai: 16-Apr-26 | tanggal_selesai: 17 April 2026 | halaman: 1
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Minggu Tenang | tanggal_mulai: 16-Nov-26 | tanggal_selesai: 20 November 2026 | halaman: 3
+semester: Ganjil | kategori: Jalur SMM-PTN Barat | kegiatan: Ujian Tulis Berbasis Komputer | tanggal_mulai: 17 Juni 2026 | tanggal_selesai: 24 Juni 2026 | halaman: 1
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Minggu Tenang | tanggal_mulai: 17 Mei 2027 | tanggal_selesai: 21 Mei 2027 | halaman: 4
+semester: Ganjil | kategori: Pengenalan Kampus | kegiatan: Posttest EPT-TOEFL | tanggal_mulai: 17-Nov-26 | tanggal_selesai: 15 Desember 2026 | halaman: 3
+semester: Ganjil | kategori: Kukerta, Wisuda & Dies Natalis | kegiatan: Posttest EPT-TOEFL | tanggal_mulai: 17-Nov-26 | tanggal_selesai: 15 Desember 2026 | halaman: 3
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Pendaftaran | tanggal_mulai: 18 Februari 2026 | tanggal_selesai: 06 April 2026 | halaman: 2
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Penerbitan Status Mahasiswa | tanggal_mulai: 18 Februari 2027 | tanggal_selesai: - | halaman: 4
+semester: Ganjil | kategori: Jalur SMBT UNRI, PHM & Kerjasama | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 18 Juli 2026 | tanggal_selesai: - | halaman: 2
+semester: Genap | kategori: Evaluasi Mahasiswa | kegiatan: Evaluasi Mahasiswa 4, 8 dan 14 Semester | tanggal_mulai: 18 Juni 2027 | tanggal_selesai: 30 Juni 2027 | halaman: 5
+semester: Genap | kategori: Kegiatan Kukerta dan Wisuda | kegiatan: Wisuda ke-130 | tanggal_mulai: 18 Mei 2027 | tanggal_selesai: 19 Mei 2027 | halaman: 5
+semester: Ganjil | kategori: Kukerta, Wisuda & Dies Natalis | kegiatan: Wisuda ke-127 | tanggal_mulai: 19 Agustus 2026 | tanggal_selesai: 20 Agustus 2026 | halaman: 3
+semester: Ganjil | kategori: Pengenalan Kampus | kegiatan: Pretest EPT TOEFL | tanggal_mulai: 20 Agustus 2026 | tanggal_selesai: 20 September 2026 | halaman: 3
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 20-Apr-26 | tanggal_selesai: - | halaman: 2
+semester: Ganjil | kategori: Jalur Penerimaan SNBP | kegiatan: Pengumuman UKT Jalur Penerimaan SNBP | tanggal_mulai: 21-Apr-26 | tanggal_selesai: - | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan SNBP | kegiatan: Masa Sanggah UKT Jalur Penerimaan SNBP | tanggal_mulai: 21-Apr-26 | tanggal_selesai: 23 April 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan SNBP | kegiatan: Pembayaran UKT Jalur Penerimaan SNBP | tanggal_mulai: 21-Apr-26 | tanggal_selesai: 07 Mei 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan UTBK-SNBT | kegiatan: Pelaksanaan UTBK -SNBT | tanggal_mulai: 21-Apr-26 | tanggal_selesai: 30 April 2026 | halaman: 1
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 1 | kegiatan: Registrasi Ulang & Pembayaran SPP Pertama | tanggal_mulai: 21-Apr-26 | tanggal_selesai: 27 April 2026 | halaman: 2
+semester: Genap | kategori: PMB Profesi | kegiatan: Pelaksanaan UTBK Profesi | tanggal_mulai: 21 Desember 2026 | tanggal_selesai: - | halaman: 4
+semester: Genap | kategori: PMB Profesi | kegiatan: Mengikuti Tes Wawancara | tanggal_mulai: 21 Desember 2026 | tanggal_selesai: - | halaman: 4
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Masa Pembayaran SPP/UKT | tanggal_mulai: 21 Desember 2026 | tanggal_selesai: 08 Januari 2027 | halaman: 4
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Masa Pengajuan Permohonan Cuti Akademik | tanggal_mulai: 21 Desember 2026 | tanggal_selesai: 28 Februari 2027 | halaman: 4
+semester: Ganjil | kategori: Jalur SMBT UNRI, PHM & Kerjasama | kegiatan: Pendaftaran Ulang | tanggal_mulai: 21 Juli 2026 | tanggal_selesai: 27 Juli 2026 | halaman: 2
+semester: Ganjil | kategori: Jalur SMBT UNRI, PHM & Kerjasama | kegiatan: Update biodata dan Upload Dokumen | tanggal_mulai: 21 Juli 2026 | tanggal_selesai: 23 Juli 2026 | halaman: 2
+semester: Ganjil | kategori: Jalur SMBT UNRI, PHM & Kerjasama | kegiatan: Verifikasi Dokumen Akademik dan UKT | tanggal_mulai: 21 Juli 2026 | tanggal_selesai: 23 Juli 2026 | halaman: 2
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pengisian KRS dan Pendaftaran MBKM | tanggal_mulai: 21 Juli 2026 | tanggal_selesai: 01 Agustus 2026 | halaman: 3
+semester: Antar Semester | kategori: Periode Akademik | kegiatan: Periode Semester Pendek TA 2027/2027 | tanggal_mulai: 21 Juni 2027 | tanggal_selesai: 31 Juli 2027 | halaman: 3
+semester: Antar Semester | kategori: Perkuliahan dan Pembelajaran | kegiatan: Perkuliahan Antar Semester (Semester Pendek) | tanggal_mulai: 21 Juni 2027 | tanggal_selesai: 24 Juli 2027 | halaman: 3
+semester: Genap | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Rapat Penentuan Kelulusan | tanggal_mulai: 22 Desember 2026 | tanggal_selesai: - | halaman: 4
+semester: Genap | kategori: PMB Profesi | kegiatan: Rapat Penentuan Kelulusan | tanggal_mulai: 22 Desember 2026 | tanggal_selesai: - | halaman: 4
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Ujian Tengah Semester (UTS) | tanggal_mulai: 22 Maret 2027 | tanggal_selesai: 27 Maret 2027 | halaman: 4
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Ujian Akhir Semester (UAS) | tanggal_mulai: 23-Nov-26 | tanggal_selesai: 27 Desember 2026 | halaman: 3
+semester: Ganjil | kategori: Jalur SMBT UNRI, PHM & Kerjasama | kegiatan: Pengumuman UKT Jalur SMBT UNRI, PHM & Kerjasama | tanggal_mulai: 24 Juli 2026 | tanggal_selesai: - | halaman: 2
+semester: Ganjil | kategori: Jalur SMBT UNRI, PHM & Kerjasama | kegiatan: Masa Sanggah UKT Jalur SMBT UNRI, PHM & Kerjasama | tanggal_mulai: 24 Juli 2026 | tanggal_selesai: 25 Juli 2026 | halaman: 2
+semester: Ganjil | kategori: Jalur SMBT UNRI, PHM & Kerjasama | kegiatan: Pembayaran UKT Jalur SMBT UNRI, PHM & Kerjasama | tanggal_mulai: 24 Juli 2026 | tanggal_selesai: 27 Juli 2026 | halaman: 2
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Ujian Akhir Semester (UAS) | tanggal_mulai: 24 Mei 2027 | tanggal_selesai: 28 Mei 2027 | halaman: 4
+semester: Genap | kategori: Periode Akademik | kegiatan: Periode Semester Genap Tahun Akademik 2026/2027 | tanggal_mulai: 25 Januari 2027 | tanggal_selesai: 15 Juni 2027 | halaman: 4
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Revisi KRS Mahasiswa | tanggal_mulai: 25 Januari 2027 | tanggal_selesai: 29 Januari 2027 | halaman: 4
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pelaksanaan Perkuliahan dan Praktikum | tanggal_mulai: 25 Januari 2027 | tanggal_selesai: 28 Mei 2027 | halaman: 4
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pelaksanaan Ujian Akhir Mahasiswa | tanggal_mulai: 25 Januari 2027 | tanggal_selesai: 15 Juni 2027 | halaman: 4
+semester: Ganjil | kategori: Jalur Penerimaan UTBK-SNBT | kegiatan: Pendaftaran | tanggal_mulai: 25 Maret 2026 | tanggal_selesai: 7 April 2026 | halaman: 1
+semester: Ganjil | kategori: Jalur Penerimaan UTBK-SNBT | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 25 Mei 2026 | tanggal_selesai: - | halaman: 1
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Input Nilai Ujian Akhir Semester (UAS) | tanggal_mulai: 25 Mei 2027 | tanggal_selesai: 11 Juni 2027 | halaman: 4
+semester: Antar Semester | kategori: Perkuliahan dan Pembelajaran | kegiatan: Ujian Antar Semester (Semester Pendek) | tanggal_mulai: 26 Juli 2027 | tanggal_selesai: 30 Juli 2027 | halaman: 3
+semester: Ganjil | kategori: PMB Profesi | kegiatan: Pelaksanaan UTBK Profesi | tanggal_mulai: 26 Juni 2026 | tanggal_selesai: - | halaman: 2
+semester: Ganjil | kategori: Jalur SMBT UNRI, PHM & Kerjasama | kegiatan: Cetak e-KTM | tanggal_mulai: 27 Juli 2026 | tanggal_selesai: - | halaman: 2
+semester: Antar Semester | kategori: Perkuliahan dan Pembelajaran | kegiatan: Input Nilai Ujian Antar Semester | tanggal_mulai: 27 Juli 2027 | tanggal_selesai: 31 Juli 2027 | halaman: 3
+semester: Ganjil | kategori: PMB Profesi | kegiatan: Mengikuti Tes Wawancara | tanggal_mulai: 27 Juni 2026 | tanggal_selesai: - | halaman: 2
+semester: Genap | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 28 Desember 2026 | tanggal_selesai: - | halaman: 4
+semester: Genap | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Registrasi Ulang & Pembayaran SPP Pertama | tanggal_mulai: 28 Desember 2026 | tanggal_selesai: 15 Januari 2027 | halaman: 4
+semester: Genap | kategori: PMB Profesi | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 28 Desember 2026 | tanggal_selesai: - | halaman: 4
+semester: Genap | kategori: PMB Profesi | kegiatan: Registrasi Ulang & Pembayaran SPP Pertama | tanggal_mulai: 28 Desember 2026 | tanggal_selesai: 15 Januari 2027 | halaman: 4
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Ujian Tengah Semester (UTS) | tanggal_mulai: 28-Sep-26 | tanggal_selesai: 02 Oktober 2026 | halaman: 3
+semester: Ganjil | kategori: Pengenalan Kampus | kegiatan: Penyerahan mahasiswa baru | tanggal_mulai: 29 Juli 2026 | tanggal_selesai: - | halaman: 3
+semester: Ganjil | kategori: Pengenalan Kampus | kegiatan: PKKMB dan Kuliah Umum | tanggal_mulai: 29 Juli 2026 | tanggal_selesai: 31 Juli 2026 | halaman: 3
+semester: Ganjil | kategori: PMB Pascasarjana Gelombang 2 | kegiatan: Rapat Penentuan Kelulusan | tanggal_mulai: 29 Juni 2026 | tanggal_selesai: - | halaman: 2
+semester: Ganjil | kategori: PMB Profesi | kegiatan: Rapat Penentuan Kelulusan | tanggal_mulai: 29 Juni 2026 | tanggal_selesai: - | halaman: 2
+semester: Ganjil | kategori: Jalur SMM-PTN Barat | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 30 Juni 2026 | tanggal_selesai: - | halaman: 1
+semester: Ganjil | kategori: Perkuliahan dan Pembelajaran | kegiatan: Input Nilai Ujian Akhir Semester (UAS) | tanggal_mulai: 30-Nov-26 | tanggal_selesai: 10 Desember 2026 | halaman: 3
+semester: Ganjil | kategori: Jalur Penerimaan SNBP | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 31 Maret 2026 | tanggal_selesai: - | halaman: 1
+semester: Genap | kategori: Kegiatan Kukerta dan Wisuda | kegiatan: Pendaftaran Wisuda | tanggal_mulai: Januari 2027 | tanggal_selesai: Desember 2027 | halaman: 5
+semester: Genap | kategori: Kegiatan Akademik Lainnya | kegiatan: Pengukuhan Guru Besar | tanggal_mulai: Januari 2027 | tanggal_selesai: Desember 2027 | halaman: 5
+semester: Genap | kategori: Evaluasi Mahasiswa | kegiatan: Penerbitan SK Rektor tentang Evaluasi Mahasiswa | tanggal_mulai: Juli 2027 | tanggal_selesai: - | halaman: 5
+semester: Ganjil | kategori: Kukerta, Wisuda & Dies Natalis | kegiatan: Kuliah Kerja Nyata (KUKERTA) | tanggal_mulai: Juni 2026 | tanggal_selesai: Juli 2026 | halaman: 3
+semester: Genap | kategori: Kegiatan Kukerta dan Wisuda | kegiatan: Pelaksanaan Kuliah Kerja Nyata (KUKERTA) | tanggal_mulai: Juni 2027 | tanggal_selesai: Juli 2027 | halaman: 5

@@ -1,0 +1,10 @@
+# Tambahan untuk mode LLM lokal (SeaLLM via HuggingFace transformers).
+# Install ini HANYA jika menjalankan di Colab/laptop ber-GPU.
+# Jangan dipakai untuk deployment Hugging Face Spaces free tier (tidak ada GPU).
+
+-r requirements.txt
+
+torch>=2.1.0
+transformers==4.46.2
+accelerate==1.1.1
+bitsandbytes==0.44.1
