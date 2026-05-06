@@ -81,23 +81,40 @@ streamlit run app.py
 
 Cocok jika Anda **tetap pakai SeaLLM-7B-v2** dengan GPU T4 gratis di Colab.
 
+> **PENTING — aktifkan GPU dulu**: di Colab, buka menu **Runtime → Change runtime type → T4 GPU**, lalu **Save**. Tanpa ini `bitsandbytes` akan ter-install tanpa CUDA dan model 7B tidak akan ter-load.
+
 ```python
+# Cell 0 — Verifikasi GPU sudah aktif (WAJIB sebelum lanjut)
+!nvidia-smi
+# Output yang diharapkan: tabel berisi "Tesla T4" atau GPU lain.
+# Jika muncul "command not found" / "No GPU available" → ganti runtime ke T4 GPU dulu.
+
 # Cell 1 — Clone & setup
 !git clone https://github.com/faraflh/chatbot-rag-ti-unri.git
 %cd chatbot-rag-ti-unri
-!pip install -r requirements-local-llm.txt
-!pip install pyngrok        # Untuk expose port keluar Colab
+!pip install -q -r requirements-local-llm.txt
+!pip install -q pyngrok        # Untuk expose port keluar Colab
 
-# Cell 2 — Konfigurasi
+# Cell 2 — RESTART runtime supaya bitsandbytes bisa load CUDA dengan benar.
+# Jalankan baris ini di cell terpisah, lalu LANJUTKAN dari Cell 3 setelah Colab restart.
+import os; os.kill(os.getpid(), 9)
+
+# Cell 3 — Konfigurasi
+%cd /content/chatbot-rag-ti-unri
 import os
 os.environ["LLM_BACKEND"] = "hf_local"
 os.environ["HF_MODEL_ID"] = "SeaLLMs/SeaLLM-7B-v2"
 os.environ["HF_LOAD_IN_4BIT"] = "true"
 
-# Cell 3 — Build index (sekali; ~30 detik)
+# Sanity check — bitsandbytes bisa lihat CUDA?
+import torch
+assert torch.cuda.is_available(), "GPU tidak terdeteksi. Cek runtime Colab."
+print("GPU:", torch.cuda.get_device_name(0))
+
+# Cell 4 — Build index (sekali; ~30 detik)
 !python scripts/build_index.py
 
-# Cell 4 — Jalankan Streamlit + ngrok tunnel
+# Cell 5 — Jalankan Streamlit + ngrok tunnel
 from pyngrok import ngrok
 import threading, subprocess, time
 
@@ -112,6 +129,16 @@ time.sleep(8)
 public_url = ngrok.connect(8501)
 print("Chatbot tersedia di:", public_url)
 ```
+
+#### Troubleshooting Colab
+
+| Error | Penyebab | Solusi |
+|-------|----------|--------|
+| `command not found: nvidia-smi` atau `No GPU available` | Runtime masih CPU | **Runtime → Change runtime type → T4 GPU**, lalu Save & Restart |
+| `Could not find the bitsandbytes CUDA binary at ...libbitsandbytes_cuda128.so` | Runtime CPU saat `pip install` (bitsandbytes ter-install versi non-CUDA) | Pastikan GPU aktif dulu, hapus paket lama (`!pip uninstall -y bitsandbytes`), lalu install ulang & restart runtime |
+| `No module named 'triton.ops'` | Versi `bitsandbytes<0.45` tidak kompatibel dengan triton 3.x di Python 3.12 | Sudah di-fix di `requirements-local-llm.txt` (>=0.45). Kalau masih error → `!pip install -U "bitsandbytes>=0.45"` lalu restart runtime |
+| `Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given` | Bug kosmetik ChromaDB | Abaikan, tidak mempengaruhi fungsi |
+| Streamlit jalan tapi tidak bisa diakses | Port belum di-tunnel | Pastikan `ngrok.set_auth_token(...)` sudah di-isi token valid dari https://dashboard.ngrok.com/ |
 
 ### C. Hugging Face Spaces (deployment publik)
 
