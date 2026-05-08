@@ -1,0 +1,51 @@
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Pendaftaran Gelombang 1 (Online) | tanggal_mulai: 01 Agustus 2025 | tanggal_selesai: 26 September 2025 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Ujian Tulis Berbasis Komputer | tanggal_mulai: 02 Oktober 2025 | tanggal_selesai: 02 Oktober 2025 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Tes Bidang di Program Studi Masing-masing | tanggal_mulai: 03 Oktober 2025 | tanggal_selesai: 03 Oktober 2025 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Rapat Penentuan keluJusan | tanggal_mulai: 08 Oktober 2025 | tanggal_selesai: 08 Oktober 2025 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Pengumuman Kelulusan Gelombang 1 | tanggal_mulai: 13 Oktober 2025 | tanggal_selesai: 13 Oktober 2025 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Pendaftaran Gelombang 2 (Online) | tanggal_mulai: 09 Oktober 2025 | tanggal_selesai: 05 Desember 2025 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Ujian Tulis Berbasis Komputer | tanggal_mulai: 11 Desember 2025 | tanggal_selesai: 11 Desember 2025 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Tes Bidang di Program Studi Masing-rnasing | tanggal_mulai: 12 Desember 2025 | tanggal_selesai: 12 Desember 2025 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Rapat Penentuan kelulusan | tanggal_mulai: 18 Desember 2025 | tanggal_selesai: 18 Desember 2025 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Pengumuman Kelulusan Gelombang 2 | tanggal_mulai: 24 Desember 2025 | tanggal_selesai: 24 Desember 2025 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Pendaftaran Ulang | tanggal_mulai: 30 Desember 2025 | tanggal_selesai: 12 Januari 2026 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Pascasarjana | kegiatan: Update biodata dan Pembayaran SPP | tanggal_mulai: 30 Desember 2025 | tanggal_selesai: 12 Januari 2026 | halaman: 5
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Pendaftaran Gelombang 1 (Online) | tanggal_mulai: 01 Agustus 2025 | tanggal_selesai: 26 September 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Ujian Tulis Berbasis Komputer | tanggal_mulai: 02 Oktober 2025 | tanggal_selesai: 02 Oktober 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Tes Bidang di Program Studi Masing-rnasing | tanggal_mulai: 03 Oktober 2025 | tanggal_selesai: 03 Oktober 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Rapat Penentuan kelulusan | tanggal_mulai: 08 Oktober 2025 | tanggal_selesai: 08 Oktober 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Pengumuman Kelulusan Gelombang l | tanggal_mulai: 13 Oktober 2025 | tanggal_selesai: 13 Oktober 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Pendaftaran Gelom bang 2 (Online) | tanggal_mulai: 09 Oktober 2025 | tanggal_selesai: 05 Desember 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Ujian Tulis Berbasis Komputer | tanggal_mulai: 11 Desember 2025 | tanggal_selesai: 11 Desember 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Tes Bidang di Program Studi Masing-rnasing | tanggal_mulai: 12 Desember 2025 | tanggal_selesai: 12 Desember 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Rapat Penentuan kelulusan | tanggal_mulai: 18 Desember 2025 | tanggal_selesai: 18 Desember 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 24 Desember 2025 | tanggal_selesai: 24 Desember 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Pendaftaran Ulang | tanggal_mulai: 30 Desember 2025 | tanggal_selesai: 12 Januari 2026 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Profesi | kegiatan: Update biodata dan Pembayaran SPP | tanggal_mulai: 30 Desember 2025 | tanggal_selesai: 12 Januari 2026 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Program Pendidikan Dokter Spesialis | kegiatan: Pendaftaran | tanggal_mulai: 21 Oktober 2025 | tanggal_selesai: 1 Desember 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Program Pendidikan Dokter Spesialis | kegiatan: Pengumuman hasil seleksi administrasi | tanggal_mulai: 07 Desember 2025 | tanggal_selesai: 07 Desember 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Program Pendidikan Dokter Spesialis | kegiatan: Tes MMPI dan Psikotes | tanggal_mulai: 09 Desember 2025 | tanggal_selesai: 14 Desember 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Program Pendidikan Dokter Spesialis | kegiatan: Rapat Penentuan kelulusan | tanggal_mulai: 18 Desember 2025 | tanggal_selesai: 18 Desember 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Program Pendidikan Dokter Spesialis | kegiatan: Pengumuman Kelulusan | tanggal_mulai: 24 Desember 2025 | tanggal_selesai: 24 Desember 2025 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Program Pendidikan Dokter Spesialis | kegiatan: Pendaftaran Ulang | tanggal_mulai: 30 Desember 2025 | tanggal_selesai: 12 Januari 2026 | halaman: 6
+semester: Genap | kategori: Seleksi Penerimaan Mahasiswa Baru Program Pendidikan Dokter Spesialis | kegiatan: Update biodata dan Pembayaran SPP | tanggal_mulai: 30 Desember 2025 | tanggal_selesai: 12 Januari 2026 | halaman: 6
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Masa Pembayaran SPP /UKT | tanggal_mulai: 22 Desember 2025 | tanggal_selesai: 15 Januari 2026 | halaman: 6
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Masa Pengajuan Permohonan Cuti Akademik | tanggal_mulai: 22 Desember 2025 | tanggal_selesai: 28 Februari 2026 | halaman: 6
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pengisian Kartu Rencana Studi (KRS) mahasiswa | tanggal_mulai: 12 Januari 2026 | tanggal_selesai: 23 Januari 2026 | halaman: 6
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pembatalan KRS Tanpa penggantian Matakuliah | tanggal_mulai: 02 Februari 2026 | tanggal_selesai: 13 Febuari 2026 | halaman: 6
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Pelaksanaan Perkuliahan dan Praktikum | tanggal_mulai: 26 Januari 2026 | tanggal_selesai: 05 Juni 2026 | halaman: 6
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Ujian Tengah Semester (UTS) | tanggal_mulai: 25 Maret 2026 | tanggal_selesai: 31 Maret 2026 | halaman: 6
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Minggu Tenang | tanggal_mulai: 18 Mei 2026 | tanggal_selesai: 22 Mei 2026 | halaman: 6
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Ujian Akhir Semester (UAS) | tanggal_mulai: 25 Mei 2026 | tanggal_selesai: 02 Juni 2026 | halaman: 6
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Input Nilai Ujian Akhir Semester (UAS) | tanggal_mulai: 28 Mei 2026 | tanggal_selesai: 15 Juni 2026 | halaman: 6
+semester: Genap | kategori: Perkuliahan dan Pembelajaran | kegiatan: Verifikasi Data Status Mahasiswa | tanggal_mulai: 10 Februari 2026 | tanggal_selesai: 14 Februari 2026 | halaman: 6
+semester: Genap | kategori: Kukerta dan Wisuda | kegiatan: Pelaksanaan Kuliah Kerja Nyata (KUKERT A) Juli 20 | tanggal_mulai: 26 Agustus 2026 | tanggal_selesai: 26 Agustus 2026 | halaman: 6
+semester: Genap | kategori: Kukerta dan Wisuda | kegiatan: Pendaftaran Wisuda Januari 20 | tanggal_mulai: 26 Desember 2026 | tanggal_selesai: 26 Desember 2026 | halaman: 6
+semester: Genap | kategori: Kukerta dan Wisuda | kegiatan: Wisuda ke-125 | tanggal_mulai: 24 Februari 2026 | tanggal_selesai: 25 Februari 2026 | halaman: 6
+semester: Genap | kategori: Kukerta dan Wisuda | kegiatan: Wisuda ke-126 | tanggal_mulai: 19 Mei 2026 | tanggal_selesai: 20 Mei 2026 | halaman: 6
+semester: Genap | kategori: Evaluasi Mahasiswa | kegiatan: Evaluasi Mahasiswa 4, 8 dan 14 Semester oleh Fakultas | tanggal_mulai: 18 Juni 2026 | tanggal_selesai: 30 Juni 2026 | halaman: 6
+semester: Genap | kategori: Evaluasi Mahasiswa | kegiatan: Penerbitan SK Rektor tentang Evaluasi Mahasiswa | tanggal_mulai: 01 Juli 2026 | tanggal_selesai: 01 Juli 2026 | halaman: 6
+semester: Genap | kategori: Kegiatan Akademik Lainnya | kegiatan: Kegiatan Dies Natalis | tanggal_mulai: 03 Oktober 2026 | tanggal_selesai: 03 Oktober 2026 | halaman: 7
+semester: Genap | kategori: Kegiatan Akademik Lainnya | kegiatan: Pengukuhan Guru Besar Januari 20 | tanggal_mulai: 26 Desember 2026 | tanggal_selesai: 26 Desember 2026 | halaman: 7
+semester: Genap | kategori: Kegiatan Akademik Lainnya | kegiatan: Finalisasi Pelaporan data PDDIKTJ Semester Ganji] | tanggal_mulai: 10 April 2026 | tanggal_selesai: 10 April 2026 | halaman: 7
+semester: Genap | kategori: Kegiatan Akademik Lainnya | kegiatan: Finalisasi Pelaporan data PDDIKTI Semester Genap | tanggal_mulai: 10 Oktober 2026 | tanggal_selesai: 10 Oktober 2026 | halaman: 7

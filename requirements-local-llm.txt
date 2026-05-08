@@ -1,0 +1,16 @@
+# Tambahan untuk mode LLM lokal (SeaLLM via HuggingFace transformers).
+# Install ini HANYA jika menjalankan di Colab/laptop ber-GPU.
+# Jangan dipakai untuk deployment Hugging Face Spaces free tier (tidak ada GPU).
+#
+# CATATAN PENTING UNTUK COLAB:
+# - Pastikan runtime sudah GPU: Runtime → Change runtime type → T4 GPU.
+# - Setelah `pip install` selesai, RESTART runtime sebelum import bitsandbytes.
+# - bitsandbytes>=0.45 dibutuhkan untuk Python 3.12 + triton 3.x (versi <0.45
+#   memunculkan ImportError: No module named 'triton.ops').
+
+-r requirements.txt
+
+torch>=2.1.0
+transformers>=4.46.2,<5.0.0
+accelerate>=1.1.1,<2.0.0
+bitsandbytes>=0.45.0,<1.0.0
