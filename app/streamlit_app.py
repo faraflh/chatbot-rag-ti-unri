@@ -74,7 +74,7 @@ def _get_chatbot(settings: Settings) -> Chatbot:
     retriever, n_docs = _bootstrap_retriever(settings)
     st.session_state.n_docs = n_docs
     llm = _bootstrap_llm(settings)
-    chatbot = Chatbot(retriever=retriever, llm=llm)
+    chatbot = Chatbot(retriever=retriever, llm=llm, data_dir=settings.data_dir)
     st.session_state.chatbot = chatbot
     return chatbot
 

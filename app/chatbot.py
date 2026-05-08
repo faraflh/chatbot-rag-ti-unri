@@ -3,11 +3,17 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from pathlib import Path
 from typing import List, Mapping, Optional
 
 from langchain.retrievers import EnsembleRetriever
 from langchain_core.documents import Document
 
+from .dosen_logic import (
+    deteksi_pertanyaan_list_dosen,
+    format_daftar_dosen,
+    list_all_dosen,
+)
 from .kalender_logic import (
     deteksi_pertanyaan_libur,
     deteksi_tahun_akademik,
@@ -52,10 +58,12 @@ class Chatbot:
         retriever: EnsembleRetriever,
         llm: LLMBackend,
         memory_size: int = 6,
+        data_dir: Optional[Path] = None,
     ) -> None:
         self._retriever = retriever
         self._llm = llm
         self._memory_size = memory_size
+        self._data_dir = data_dir
         self.libur_state = LiburState()
 
     # -- helpers ----------------------------------------------------------
@@ -103,6 +111,17 @@ class Chatbot:
         if history is None:
             history = []
         teks_user = user_input.lower()
+
+        # === Branch 0: Pertanyaan 'list semua dosen' ===
+        # Top-k retriever (8 chunks) tidak cukup untuk semua 17 dosen, sehingga
+        # LLM cenderung halusinasi. Bypass langsung ke daftar dari file.
+        if self._data_dir is not None and deteksi_pertanyaan_list_dosen(teks_user):
+            names = list_all_dosen(self._data_dir) or []
+            return ChatbotResponse(
+                answer=format_daftar_dosen(names),
+                sources=["dosen_rag_narasi.txt"] if names else [],
+                used_special_logic=True,
+            )
 
         # === Branch 1: Sedang menunggu jawaban tahun akademik ===
         if self.libur_state.menunggu_jawaban:
